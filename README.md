@@ -14,3 +14,5 @@ A simple python tool for finding admin pages in a website
 - python3 adminpagefinder.py
 
 # Steps To Run This Tool On Android(Termux):
+- apt update
+- apt install python
