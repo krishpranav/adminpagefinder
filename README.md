@@ -13,4 +13,4 @@ A simple python tool for finding admin pages in a website
 - sudo chmod +x *
 - python3 adminpagefinder.py
 
-# Steps To Run This Tool On Mac:
+# Steps To Run This Tool On Android(Termux):
